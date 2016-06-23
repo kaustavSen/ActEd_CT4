@@ -1,2 +1,2 @@
 #ActEd CT4
-ActEd questions with LateX formating for CT4
+ActEd questions with LaTeX formating for CT4

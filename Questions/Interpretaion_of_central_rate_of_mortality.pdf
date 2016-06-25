@@ -1,7 +1,0 @@
-<p>On Page 13 of Chapter 7: Survival Models, the course notes states (interpretation of <script type="math/tex" id="MathJax-Element-283">m_x</script>):</p>
-
-<blockquote>
-  <p>the denominator <script type="math/tex" id="MathJax-Element-284">\int_0^1{_tp_x}dt</script> is interpreted as the expected amount of time spent alive between ages <script type="math/tex" id="MathJax-Element-285">x</script> and <script type="math/tex" id="MathJax-Element-286">x+1</script> by a life alive at age x…</p>
-</blockquote>
-
-<p>I am unable to comprehend how can <script type="math/tex" id="MathJax-Element-287">\int_0^1{_tp_x}dt</script> be thought of as an <em>expectation</em>? </p>
